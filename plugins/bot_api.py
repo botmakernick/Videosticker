@@ -1,6 +1,7 @@
 import httpx
 import typing
 import requests
+from bot import bot
 from pystark import Message
 from database import database
 from pystark.config import ENV
